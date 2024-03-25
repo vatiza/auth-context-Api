@@ -19,6 +19,7 @@ const Header = () => {
             <button className="btn btn-ghost text-xl text-white  ">Context API</button>
             <div className='navbar-end'>
                 <Link className="btn btn-ghost text-xl text-white" to='/'>Home</Link>
+                <Link className="btn btn-ghost text-xl text-white" to='/orders'>Orders</Link>
                 <Link className="btn btn-ghost text-xl text-white" to='/login'>Login</Link>
                 <Link className="btn btn-ghost text-xl text-white" to='/register'>Registration</Link>
                 {
